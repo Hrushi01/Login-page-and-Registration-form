@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(228, 226, 226);
+}
+
+.form {
+    margin-top: 5%;
+    margin-left: 40%;
+}
+
+.whole {
+    height: 700px;
+    width: 400px;
+    background-color: white;
+    padding: 30px;
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+    border-bottom: 2px solid gray;
+    font-family: 'Playfair Display', serif;
+}
+
+.bar {
+    height: 10px;
+    background-color: rgb(253, 206, 117);
+    ;
+    width: 460px;
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+    border-top: 2px solid gray;
+}
+
+.heading {
+    font-size: xx-large;
+    font-weight: 900;
+    text-align: center;
+}
+
+.name1 {
+    display: flex;
+    text-align: center;
+}
+
+.content {
+    font-size: x-large;
+}
+
+.success {
+    font-size: 100px;
+    color: green;
+    text-align: center;
+    margin-top: 20%;
+}
